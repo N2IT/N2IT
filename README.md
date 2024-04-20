@@ -12,7 +12,7 @@
 
 <!-- TECH STACK -->
 <!-- JAVASCRIPT, REACT, PYTHON, FLASK, ALEMBIC, FLASK-RESTFUL, SQL, SQLITE, LINUX, SQLALCHEMY, HTML5, CSS3, BOOTSTRAP -- ICONS-->
-💻 TECH STACK 💻
+💻 TECH STACK
 <!-- <div style='display: inline-flex'> -->
 <a href="https://www.javascript.com/" target="_blank"><img src="./assets/js.png" width=55></a>
 <a href="https://react.dev/" target="_blank"><img src='./assets/react.png' width=55></a>
@@ -27,7 +27,8 @@
 <br />
 <br />
 <br />
-✅ Experience with ✅<br />
+✅ Diverse platform experience
+<!-- <div style='display: inline-flex'> -->
 <a href="https://wordpress.com/" target="_blank" title="Wordpress"><img src="./assets/wordpress.png" width=45></a>
 <a href="https://business.adobe.com/products/magento/magento-commerce.html" title="Adobe Commerce" target="_blank"><img src="./assets/magento.png" width=45></a>
 <a href="https://www.joomla.org/" target="_blank" title="Joomla"><img src="./assets/social.png" width=45></a>
