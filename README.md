@@ -25,15 +25,17 @@
 <a href="https://getbootstrap.com/" target="_blank"><img src='./assets/bootstrap.png' width=55></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/> </a>
 <br />
+<br />
+<br />
 ✅ Experience with ✅<br />
-<a href="https://wordpress.com/" target="_blank" title="Wordpress"><img src="./assets/wordpress.png" width=55></a>
-<a href="https://business.adobe.com/products/magento/magento-commerce.html" title="Adobe Commerce" target="_blank"><img src="./assets/magento.png" width=55></a>
-<a href="https://www.joomla.org/" target="_blank" title="Joomla"><img src="./assets/social.png" width=55></a>
-<a href="https://www.hubspot.com" title="HubSpot" target="_blank"><img src="./assets/hubspot.png" width=55></a>
-<a href="https://www.salesforce.com/" title="Salesforce" target="_blank"><img src="./assets/salesforce.png" width=55></a>
-<a href="https://zapier.com/" title="Zapier" target="_blank"><img src="./assets/zapier-logo-png-transparent.png" width=55></a>
-<a href="https://analytics.google.com" title="Google Analytics" target="_blank"><img src="./assets/google-analytics.png" width=55></a>
-<a href="https://lookerstudio.google.com/u/0/navigation/reporting" title="Looker Studio" target="_blank"><img src="./assets/googleDataStudio.png" width=55></a>
+<a href="https://wordpress.com/" target="_blank" title="Wordpress"><img src="./assets/wordpress.png" width=45></a>
+<a href="https://business.adobe.com/products/magento/magento-commerce.html" title="Adobe Commerce" target="_blank"><img src="./assets/magento.png" width=45></a>
+<a href="https://www.joomla.org/" target="_blank" title="Joomla"><img src="./assets/social.png" width=45></a>
+<a href="https://www.hubspot.com" title="HubSpot" target="_blank"><img src="./assets/hubspot.png" width=45></a>
+<a href="https://www.salesforce.com/" title="Salesforce" target="_blank"><img src="./assets/salesforce.png" width=45></a>
+<a href="https://zapier.com/" title="Zapier" target="_blank"><img src="./assets/zapier-logo-png-transparent.png" width=45></a>
+<a href="https://analytics.google.com" title="Google Analytics" target="_blank"><img src="./assets/google-analytics.png" width=45></a>
+<a href="https://lookerstudio.google.com/u/0/navigation/reporting" title="Looker Studio" target="_blank"><img src="./assets/googleDataStudio.png" width=45></a>
 
 <!-- personal notes about me: -->
 <p>🌅 I have been developing websites, both informational and ecommerce, for 8+ years.</p>
