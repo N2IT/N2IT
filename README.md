@@ -32,7 +32,7 @@
 <p>🧑‍🎓 I am currently a student in the Software Engineering program at Flatiron School.</p>
 <p>🙋‍♂️ I am eager to collaborate, review, and network. ✌️ </p>
 <p>🌞 I am actively seeking a mentor to help me progress as a software engineer.</p>
-
+<br />
 <!-- PROJECT DEMOS
 LINKS TO TOP THREE OR FOUR -->
 <p><b>Pronouns</b></p>
