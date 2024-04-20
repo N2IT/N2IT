@@ -25,7 +25,7 @@
 <a href="https://getbootstrap.com/" target="_blank"><img src='./assets/bootstrap.png' width=55></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/> </a>
 <br />
-✅ Experience with ✅
+✅ Experience with ✅<br />
 <a href="https://wordpress.com/" target="_blank" title="Wordpress"><img src="./assets/wordpress.png" width=55></a>
 <a href="https://business.adobe.com/products/magento/magento-commerce.html" title="Adobe Commerce" target="_blank"><img src="./assets/magento.png" width=55></a>
 <a href="https://www.joomla.org/" target="_blank" title="Joomla"><img src="./assets/social.png" width=55></a>
