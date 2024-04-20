@@ -2,10 +2,10 @@
 # <h1>Hi I'm Tony</h1>
 
 <!-- GIT, LINKEDIN, MEDIUM, GMAIL ICONS -->
-<a href="https://github.com/N2IT/"><img src="./assets/github.png" width=40></a>
-<a href="https://www.linkedin.com/in/tony-eder/"><img src="./assets/linkedin.png" width=40></a>
-<a href="https://medium.com/@tonyeder11"><img src="./assets/medium.png" width=40></a>
-<a href="mailto:tonyeder11@gmail.com?subject=Hey I was looking at your github profile and [you take it from here]" target="_blank"><img src="./assets/gmail.png" width=40>
+<a href="https://github.com/N2IT/" target="_blank" title="You are here!"><img src="./assets/github.png" width=40></a>
+<a href="https://www.linkedin.com/in/tony-eder/" target="_blank" title="The professional profile"><img src="./assets/linkedin.png" width=40></a>
+<a href="https://medium.com/@tonyeder11" target="_blank" title="Sometimes I blog"><img src="./assets/medium.png" width=40></a>
+<a href="mailto:tonyeder11@gmail.com?subject=Hey I was looking at your github profile and [you take it from here]" target="_blank" title="Email me what is on your mind!"><img src="./assets/gmail.png" width=40>
 
 # <h2>💪 Software Engineer in Training 💪</h2>
 
