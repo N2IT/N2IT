@@ -6,6 +6,11 @@
 
 <!-- TECH STACK -->
 <!-- JAVASCRIPT, REACT, PYTHON, FLASK, ALEMBIC, FLASK-RESTFUL, SQL, SQLITE, LINUX, SQLALCHEMY, HTML5, CSS3, BOOTSTRAP -- ICONS-->
+💻 TECH STACK 💻
+<div style='display: inline-flex'>
+    <img src="./assets/js.png">
+    <img src='./assets//react.png'>
+</div>
 
 
 
