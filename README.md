@@ -1,19 +1,25 @@
 
-<h1>Hi I'm Tony</h1>
+<h1 style='text-align:center'>Hi I'm Tony</h1>
 <hr>
 <!-- GIT, LINKEDIN, MEDIUM, GMAIL ICONS -->
+<a href="https://github.com/N2IT/"><img src="./assets/github.png" width=55></a>
+<a href="https://www.linkedin.com/in/tony-eder/"><img src="./assets/linkedin.png" width=55></a>
+<a href="https://medium.com/@tonyeder11"><img src="./assets/medium.png" width=55></a>
+<a href="mailto:tonyeder11@gmail.com?subject=Hey I was looking at your github profile and [you take it from here]" target="_blank"><img src="./assets/gmail.png" width=55>
 
-<p><em>💪 Software Engineer in Training 💪</em></p>
+<h2><em>💪 Software Engineer in Training 💪</em></h2>
 
 <!-- TECH STACK -->
 <!-- JAVASCRIPT, REACT, PYTHON, FLASK, ALEMBIC, FLASK-RESTFUL, SQL, SQLITE, LINUX, SQLALCHEMY, HTML5, CSS3, BOOTSTRAP -- ICONS-->
-💻 TECH STACK 💻
+# 💻 TECH STACK 💻
 <!-- <div style='display: inline-flex'> -->
 <div class="tech-stack">
     <img src="./assets/js.png" width=55>
     <img src='./assets/react.png' width=55>
     <img src='./assets/python.png' width=55>
     <img src='./assets/flask.png' width=55>
+    <img src='./assets/Sql_data_base_with_logo.png' width=55>
+    <img src='./assets/sqllite.png' width=55>
     <img src='./assets/html-5.png' width=55>
     <img src='./assets/css-3.png' width=55>
     <img src='./assets/bootstrap.png' width=55>
