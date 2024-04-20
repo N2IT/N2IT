@@ -19,7 +19,7 @@
     <img src='./assets/python.png' width=55>
     <img src='./assets/flask.png' width=55>
     <img src='./assets/Sql_data_base_with_logo.png' width=55>
-    <img src='./assets/sqllite.png' width=55>
+    <img src='./assets/1000px-SQLite370.png.png' width=55>
     <img src='./assets/html-5.png' width=55>
     <img src='./assets/css-3.png' width=55>
     <img src='./assets/bootstrap.png' width=55>
