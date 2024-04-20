@@ -1,9 +1,3 @@
-<style>
-    .tech-stack {
-        display: inline-flex;
-    }
-
-</style>
 
 <h1>Hi I'm Tony</h1>
 <hr>
