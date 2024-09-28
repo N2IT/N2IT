@@ -3,9 +3,9 @@
 <p><i>"Don't count the days, make the days count." --Muhammad Ali</i></p>
 <br />
 <!-- GIT, LINKEDIN, MEDIUM, GMAIL ICONS -->
-<a href="https://github.com/N2IT/" target="_blank" title="You are here!"><img src="./assets/github.png" width=40></a> ||
-<a href="https://www.linkedin.com/in/tony-eder/" target="_blank" title="The professional profile"><img src="./assets/linkedin.png" width=40></a> ||
-<a href="https://medium.com/@tonyeder11" target="_blank" title="Sometimes I blog"><img src="./assets/medium.png" width=40></a> ||
+<a href="https://github.com/N2IT/" target="_blank" title="You are here!"><img src="./assets/github.png" width=40></a>&nbsp;&nbsp;||&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/tony-eder/" target="_blank" title="The professional profile"><img src="./assets/linkedin.png" width=40></a>&nbsp;&nbsp;||&nbsp;&nbsp;
+<a href="https://medium.com/@tonyeder11" target="_blank" title="Sometimes I blog"><img src="./assets/medium.png" width=40></a>&nbsp;&nbsp;||&nbsp;&nbsp;
 <a href="mailto:tonyeder11@gmail.com?subject=Hey I was looking at your github profile and [you take it from here]" target="_blank" title="Email me what is on your mind!"><img src="./assets/gmail.png" width=40>
 
 <h2>Software Engineer / Full Stack Developer</h2>
@@ -14,17 +14,17 @@
 <!-- JAVASCRIPT, REACT, PYTHON, FLASK, ALEMBIC, FLASK-RESTFUL, SQL, SQLITE, LINUX, SQLALCHEMY, HTML5, CSS3, BOOTSTRAP -- ICONS-->
 💻 TECH STACK
 <!-- <div style='display: inline-flex'> -->
-<a href="https://www.javascript.com/" target="_blank"><img src="./assets/js.png" width=55></a>
-<a href="https://react.dev/" target="_blank"><img src='./assets/react.png' width=55></a>
-<a href="https://www.python.org/" target="_blank"><img src='./assets/python.png' width=55></a>
-<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"><img src='./assets/flask.png' width=55></a>
-<a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"><img src='./assets/Sql_data_base_with_logo.png' width=105></a>
-<a href="https://www.sqlite.org/" target="_blank"><img src='./assets/1000px-SQLite370.png' width=105></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src='./assets/html-5.png' width=55></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src='./assets/css-3.png' width=55></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src='./assets/bootstrap.png' width=55></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width='55'></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/> </a>
+<a href="https://www.javascript.com/" target="_blank"><img src="./assets/js.png" width=55></a>&nbsp;&nbsp;
+<a href="https://react.dev/" target="_blank"><img src='./assets/react.png' width=55></a>&nbsp;&nbsp;
+<a href="https://www.python.org/" target="_blank"><img src='./assets/python.png' width=55></a>&nbsp;&nbsp;
+<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"><img src='./assets/flask.png' width=55></a>&nbsp;&nbsp;
+<a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"><img src='./assets/Sql_data_base_with_logo.png' width=105></a>&nbsp;&nbsp;
+<a href="https://www.sqlite.org/" target="_blank"><img src='./assets/1000px-SQLite370.png' width=105></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src='./assets/html-5.png' width=55></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src='./assets/css-3.png' width=55></a>&nbsp;&nbsp;
+<a href="https://getbootstrap.com/" target="_blank"><img src='./assets/bootstrap.png' width=55></a>&nbsp;&nbsp;
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width='55'></a>&nbsp;&nbsp;
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/> </a>&nbsp;&nbsp;
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="55" height="55" /></a>
 <br />
 <br />
